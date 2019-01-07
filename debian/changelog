@@ -1,3 +1,9 @@
+bitcoin (0.17.1-trusty1) trusty; urgency=medium
+
+  * New upstream release.
+
+ -- Matt Corallo (BlueMatt) <matt@mattcorallo.com>  Mon, 07 Jan 2019 14:54:00 -0400
+
 bitcoin (0.17.0-trusty1) trusty; urgency=medium
 
   * New upstream release.
